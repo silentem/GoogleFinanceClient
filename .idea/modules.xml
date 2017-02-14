@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleFinanceClient.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleFinanceClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleFinanceClient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleFinanceClient_main.iml" group="GoogleFinanceClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GoogleFinanceClient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GoogleFinanceClient_test.iml" group="GoogleFinanceClient" />
+    </modules>
+  </component>
+</project>
