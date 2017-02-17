@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="tradre" transaction-type="RESOURCE_LOCAL">
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <class>eu.toloka.tradre.persistence.entity.StockEntity</class>
+        <exclude-unlisted-classes>false</exclude-unlisted-classes>
+        <properties>
+            <!-- MySQL connection -->
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/sys?useUnicode=true&amp;characterEncoding=utf8" />
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
+            <property name="javax.persistence.jdbc.user" value="silentem" />
+            <property name="javax.persistence.jdbc.password" value="hillka3423" />
+
+            <!-- DDL generation -->
+            <property name="javax.persistence.ddl-generation.output-mode" value="database" />
+
+            <!-- Logging -->
+            <property name="javax.persistence.logging.level" value="INFO" />
+            <property name="javax.persistence.logging.exceptions" value="true" />
+
+            <!-- Caching -->
+            <property name="javax.persistence.cache.type.default" value="NONE"/>
+            <property name="javax.persistence.cache.shared.default" value="false"/>
+
+            <property name="eclipselink.target-database" value="MYSQL"/>
+            <property name="eclipselink.jdbc.native-sql" value="true"/>
+            <property name="eclipselink.ddl-generation" value="create-tables" />
+        </properties>
+    </persistence-unit>
+</persistence>
