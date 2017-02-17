@@ -1,0 +1,1431 @@
+[Defautl Settings]
+CaptionMode=3
+FloatingMode=0
+DetachNewView=1
+StickyConfig=55
+DefaultShares=100
+DefaultShortShares=100
+IncreaseShares=100
+HotKeyRouters=000
+ScalingShareMode=1
+LinkSharesToDefault=1
+SpeedOrderMode=0
+TradingPromptMessage=1
+PushShareMode=0
+UseCurrentShares=0
+BelzDefault=NYSE
+MlynDefault=NYSE
+NyfdDefault=NYSE
+ItsDefault=NYSE
+OesDefault=NYSE
+bL2AutoAdjustWidth=0
+MaxAutoCancelPerSec=5
+bMethodFollow=0
+DefaultNASDAQ=    
+DefaultListed=    
+nLevel2Decimals=2
+m_nL2ColorOthers=0
+TimeInForce=99999
+Display=N
+ISLDDirectPlus=0
+MinimumShares=0
+UseNumPadShares=1
+bGlobalReserveShares=1
+bAntiWashTrade=0
+bSameReserveShares=0
+bReserveINETShow=1
+nReserveINETShares=1000
+bReserveARCAShow=1
+nReserveARCAShares=1000
+bReserveTRACShow=1
+nReserveTRACShares=1000
+bReserveMLYNShow=1
+nReserveMLYNShares=1000
+bReserveDATAShow=1
+nReserveDATAShares=100
+bReserveOESShow=1
+nReserveOESShares=1000
+bReserveNYFXShow=1
+nReserveNYFXShares=1000
+bReserveNITEShow=1
+nReserveNITEShares=1000
+bReserveEDGAShow=1
+nReserveEDGAShares=1000
+bReserveEDGXShow=1
+nReserveEDGXShares=1000
+Delta=0.0000
+newDefaultExchange=1
+ForceSwitchQuoteServer=1
+InsideQuotePrice=0
+Level2SortNo=1
+Level2Display=1
+DisplayAllOptionMethod=0
+ISELevel2TopLayer=0
+ISLDShaveAdjust=0.0000
+ISLDShaveAdjustHidden=0.0000
+ARCAShaveAdjust=0.0000
+BATSShaveAdjust=0.0000
+BELZShaveAdjust=0.0000
+MLYNShaveAdjust=0.0000
+OESShaveAdjust=0.0000
+ESignalLayoutFile=
+ESignalAppString=oleka
+ISBBuySellAdjust=0.0200
+EDGXBuySellAdjust=0.0200
+ARCABuySellAdjust=0.0200
+BRUTBuySellAdjust=0.0000
+ECNBuySellAdjust=0.0200
+SOESBuySellAdjust=0.0200
+DirectHitRange=0.0000
+MarketHitRange=0.0000
+SmartHitRange=0.0000
+bPriceViolation=1
+PriceViolation=0.5000
+bAutoCorrection=1
+dblACDiff=0.0000
+bACTimeThreshold=1
+nACTimeThreshold=60
+bACTimeLimit=0
+nACTimeLimit=3600
+bACPriceThreshold=1
+dblACPriceThreshold=0.5000
+bACRemoveOddShares=1
+bACRemoveBook=0
+bSuperMontageMMECN=1
+bNotifySpread=1
+NotifySpread=0.0200
+DisplaySharesBelow100=0
+DisplayOwnShares=1
+bFastSoesSell=1
+bForcedShortSell=0
+AllowMultipleSell=1
+AutoRefreshHELFOrder=1
+bHideCancel=0
+bPriceTruncate=0
+PriceUp=0.0100
+PriceDown=0.0100
+PriceLeft=0.0100
+PriceRight=0.0100
+PriceShiftUp=0.0010
+PriceShiftDown=0.0010
+PriceShiftLeft=0.0100
+PriceShiftRight=0.0100
+PriceCtrlUp=0.0010
+PriceCtrlDown=0.0010
+PriceCtrlLeft=0.0100
+PriceCtrlRight=0.0100
+ShareUp=1
+ShareDown=4
+ShareLeft=2
+ShareRight=3
+ShareShiftUp=11
+ShareShiftDown=44
+ShareShiftLeft=22
+ShareShiftRight=33
+ShareCtrlUp=111
+ShareCtrlDown=444
+ShareCtrlLeft=222
+ShareCtrlRight=333
+Level2SortByShare=0
+HighLightECN=0
+HighLightECNBook=0
+HighLightMM=0
+HighLightFirstMM=0
+HighLightISB=0
+DisplayINET=0
+HighLightAxes=0
+SpringTNS=1
+nLevel2Lines=99
+ShowCondQuote=1
+HighLightNYSE=1
+HightLightNYSEBack=0
+HightLightNYSEFore=65535
+HightlightOwnShare=16711680
+Font=-12,0,0,0,400,0,0,0,0,3,2,1,34,Verdana
+OpenBookFont=-11,0,0,0,400,0,0,0,0,0,0,0,0,MS Sans Serif
+OptionChainFont=16,0,0,0,400,0,0,0,0,0,0,0,0,MS Sans Serif
+ChartBKClr=0
+ChartFrameClr=0
+ChartHorzGridClr=8421631
+ChartTitleFontClr=16777215
+ChartTitleFontClr_Up0=65280
+ChartTitleFontClr_Down0=255
+ChartRightPenClr=16711680
+ChartLeftPenClr=33023
+ChartPenBBClr=16744448
+ChartPenBBUpDownClr=16777215
+ChartFontVertAxisClr=16777215
+StudyVolumeClr=65280
+StudyRSIClr=49152
+StudyStochastics0=16711680
+StudyStochastics1=12583104
+StudyCCI0=12583104
+StudyCCI1=12583104
+StudyMomentumClr=49152
+StudyMACD_Sl=12583104
+StudyMACD_Up=49152
+StudyMACD_Down=192
+PenMA0=65280
+PenMA1=255
+PenMA2=33023
+PenHL0=49152
+PenHL1=12583104
+PenDayBreak=16777215
+TickChartBlue=16776960
+TickChartPurple=16711935
+CandleUp=4227072
+CandleDn=255
+LimitLineClr=16777215
+DiversityLineClr=16777215
+StudyAvgTrueRangeClr=16777215
+NewL2Color0=0 16777158
+NewL2Color1=0 16711275
+NewL2Color2=0 14079489
+NewL2Color3=0 11118849
+NewL2Color4=0 11118849
+NewL2Color5=0 11118849
+NewL2Color6=0 11118849
+NewL2Color7=0 11118849
+NewL2Color8=0 11118849
+NewL2Color9=0 11118849
+NewL2Color10=0 11118849
+NewL2Color11=0 0
+NewExemptColor=4227072
+StatusBarSymbol1=BGU
+StatusBarSymbol2=GS
+StatusBarSymbol3=
+StatusBarSymbol4=
+StatusBarSymbol5=
+bEnableAxes=1
+bAutoAxes=0
+AxesSymbol1=LEHM
+AxesSymbol2=FBCO
+AxesSymbol3=MONT
+AxesSymbol4=    
+AxesSymbol5=    
+bRouteOut=0
+bRouteOutINETOrder=1
+bRouteOutARCAOrder=1
+bRouteOutEDGAOrder=1
+bRouteOutEDGXOrder=1
+bRouteOutBATSOrder=1
+bRouteOutNYFXOrder=1
+bRouteARCAtoINET=0
+bRouteTRACtoINET=0
+bRouteDATAtoINET=0
+bARCAOddLotEnabled=1
+bMLCOOddLotEnabled=0
+nLevelDistance=1000
+ShaveKeyMethod1=ISLD
+ShaveKeyPrice1=0.0010
+bShaveKeyTopOfMM1=1
+bShaveKeyShow1=1
+bShaveKeyReplace1=1
+bShaveKeyReverse1=0
+ShaveKeyMethod2=ISLD
+ShaveKeyPrice2=0.0010
+bShaveKeyTopOfMM2=1
+bShaveKeyShow2=1
+bShaveKeyReplace2=1
+bShaveKeyReverse2=0
+ShaveKeyMethod3=ISLD
+ShaveKeyPrice3=0.0010
+bShaveKeyTopOfMM3=1
+bShaveKeyShow3=1
+bShaveKeyReplace3=1
+bShaveKeyReverse3=0
+ShaveKeyMethod4=ISLD
+ShaveKeyPrice4=0.0010
+bShaveKeyTopOfMM4=1
+bShaveKeyShow4=1
+bShaveKeyReplace4=1
+bShaveKeyReverse4=0
+ShaveKeyMethod5=ISLD
+ShaveKeyPrice5=0.0010
+bShaveKeyTopOfMM5=1
+bShaveKeyShow5=1
+bShaveKeyReplace5=1
+bShaveKeyReverse5=0
+mmidDefaultMPID=GNDS
+chCapacity=A
+chInternalize=N
+chDiscretionary=N
+nDiscrOffset=1
+chSOESTIF=N
+chImbalance=N
+chFillOrReturn=N
+chPegged=N
+bPegCap=0
+dblPegCapOffset=0.00
+nPegOffset=1
+ShowMMorRSI=1
+bShowLevel2NYSEOnly=0
+bShowLevel2NASDAQOnly=0
+DelayL1=2000
+DelayL2=240
+NxAllShares=0
+NYSEBidAskUsingOppositePrice=1
+MethodTraderStopOrder=BRUT
+MethodTraderStopLimitOrder=BRUT
+DefaultDiscretMethod=ARCA
+DefaultPegMethod=ARCA
+ESignalAccountOrAppString=0
+TrailingStopPxType=0
+TrailingStopPercent=0.050000
+TrailingStopFixed=0.100000
+RegularStopPxType=0
+RegularStopPercent=0.050000
+RegularStopFixed=0.100000
+TStopNyseOnly=0
+TStopPxBase=0
+Level2WindowCustomBkColor=0
+bScrollECN=0
+RoutingStrategy=DOTD
+NQBXRoutingStrategy=STGY
+BATSRoutingStrategy=    
+NYFXRoutingStrategy=    
+EDGARoutingStrategy=    
+EDGXRoutingStrategy=RDOT
+MLOPRoutingStrategy=    
+Level2LookNFeel=1
+L1mmclrActiveBk=64
+L1mmclrBk=0
+L1mmclrFg=65535
+L1mmclrPos=65280
+L1mmclrNeg=255
+L1mmclrNoChange=16777215
+L1mmCF=-134217665,1,240,0,0,0,Arial
+L1mmDisItems=Last,Net,%,Close,Open,Lo,Hi,Vol,
+L1mmHeight=40
+MainbarLineSpacing=5
+MainbarclrPos=65280
+MainbarclrNeg=255
+MainbarclrNoChange=16777215
+MainbarclrCapLock=0
+MainbarclrDelay=0
+MainbarclrInventory=0
+MainbarclrShortDay=0
+MainbarclrHoliday=0
+MainbarclrBackground=4605510
+MainbarclrForeground=65535
+MainbarSpacing=0
+MainbarShortFrame=0
+MainbarShowHeartbeat=0
+MainbarConfirmExit=0
+MainbarBlinkIfDelay=0
+MainbarDisLine1=1
+MainbarDelay=0
+MainbarLockTime=0
+MainbarLogfont=-16,0,0,0,700,0,0,0,0,0,0,0,0,Times
+MainbarDisplayItem=OP&L,CloseP&L,BPA,
+MainbarDisplayItem=/SP0U,!VIX,$DJI,$COMP,
+MainbarDisplayItem=
+MainbarDisplayItem=
+MainbarDisplayItem=
+MainbarDisplayItem=
+ShowRecentSymbolList=1
+SingleBkForMMView=0
+FavouriteECNS=NYSE,Nasdaq,ARCA,EDGX
+
+[Default Custom Font Colors]
+<FcsListCtrlDefault_Begin>=
+FcsListCtrlHeaderBkColor=13160660
+FcsListCtrlHeaderTextColor=0
+<FcsListCtrlDefault_End>=
+DefFcs_POV=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,65280,0,0,0,0,0,Short,255,0,255,0,0,Sell,255,0,Buy,65280,0
+DefFcs_TNS=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,65280,0,0,0,0,0,Greater,65280,0,Less,255,0,16777215,0,0,Equal,16777215,0
+DefFcs_BL_OPEN=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,Profit,65280,0,65280,0,0,Loss,255,0,0,0,0,16777215,0,0,Flat,16777215,0
+DefShowGridlines_BL_OPEN=0
+DefFcs_BL_PEND=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,65280,0,0,0,0,0,Short,255,0,255,0,0,Sell,255,0,Buy,65280,0
+DefShowGridlines_BL_PEND=0
+DefFcs_BL_CANCEL=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,65280,0,0,0,0,0,Short,255,0,255,0,0,Sell,255,0,Buy,65280,0
+DefShowGridlines_BL_CANCEL=0
+DefFcs_BL_TRADE=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,65280,0,0,0,0,0,Short,255,0,255,0,0,Sell,255,0,Buy,65280,0
+DefShowGridlines_BL_TRADE=0
+DefFcs_BL_AVG=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,65280,0,0,0,0,0,Short,255,0,255,0,0,Sell,255,0,Buy,65280,0
+DefShowGridlines_BL_AVG=0
+DefFcs_BL_BO=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,0,0,0,16777215,0,0,Text,16777215,0
+DefShowGridlines_BL_BO=0
+DefFcs_BL_BE=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,0,0,0,16777215,0,0,Text,16777215,0
+DefShowGridlines_BL_BE=0
+DefFcs_AO=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,Pending,16777215,0,Rejected,33023,0,Removed,6316287,0,Canceled,6316287,0,Sending,6316128,0,Short,255,0,Sell,255,0,Partially Filled,6356991,0,Filled,6356832,0,Buy,65280,0
+DefShowGridlines_AO=0
+DefFcs_PM=-13,0,0,0,700,0,0,0,0,0,0,0,0,Courier New,#,0,Admin,16777215,0,Error,255,0,Open,14189447,0,Close,13158600,0
+DefShowGridlines_PM=0
+ActiveFrameColor=255
+MarkedFrameColor=16711680
+
+[Default_TNS]
+AutoHideSymbolInput=1
+BlockInvert=1
+BlockShares=500
+BlockTrade=0
+ColorScheme=0
+ECNs=A;B;E;I;L;P;U;X;Y;a;c;n;o;p;t;
+EnableBlockFilter=0
+EnableTickFilter=0
+FilterSize=0.500000
+FontColors=-13,0,0,0,400,0,0,0,177,3,2,1,49,Courier New,#,0,Greater,65280,64,Less,255,64,Equal,16777215,64
+LineLayout=1 8 0;3 5 0;4 6 4;2 2 0;
+SourceConfig=0
+Symbol=
+[/Default_TNS]
+
+[MainWindow]
+Rect=0,0,2730,854
+WindowState=0
+Title=Laser - Sourcefire  Inc. - Common Stock
+StatusBar=0
+FloatingModeRect=-1163005939,-1163005939,-1163005939,-1163005939
+FixedModeRect=-1163005939,-1163005939,-1163005939,-1163005939
+
+[KeyBoardLayout]
+Property=13,12
+Link to Excel Property...=0,8
+Switch Account=0,8
+Switch to Next QuoteServer=0,8
+Next Level II Box=32,8
+Switch to Pending Window=0,8
+Switch to Previous Page=0,8
+Switch to Next Page=0,8
+Switch to Next L2=0,8
+Expand/Restore L2=0,8
+Switch Mlyn/Belz/Oes=0,8
+Switch Oes Midwest SE=0,8
+Switch NYSE/AMEX=0,8
+Switch Favorite ECN=0,8
+Switch to Tick Message=0,8
+Pin/Unpin Order Box=0,8
+Cancel All Orders (Global)=0,8
+Cancel All Orders=27,8
+Cancel First Order=0,8
+Cancel Last Order=0,8
+Cancel All Buying Orders=0,8
+Cancel All Selling Orders=0,8
+Cancel Orders=0,8
+Cancel Last Bid=0,8
+Cancel Last Offer=0,8
+Set Fixed Shares=0,8
+Speed Mode=0,8
+Push Mode=0,8
+Forced Short Sell=0,8
+Prompt Message=0,8
+Link Shares To Default=0,8
+Set Default Shares=0,8
+Display Order=0,8
+Show Reserve=0,8
+Market Close Out All=123,8
+MLCO(MOC) Close Out All=0,8
+MLCO(MOO) Close Out All=0,8
+Level 2 Market Close Out All=0,8
+Spray Close Out=0,8
+DirectHit Close Out=0,8
+Buy Nasdaq Shave Close=0,8
+Sell Nasdaq Shave Close=0,8
+Direct Buy Close Out=0,8
+Direct Sell Close Out=0,8
+Smart Close Out=0,8
+Bid on INET=0,8
+Bid on INET (Hidden)=0,8
+Bid on INET (Part)=0,8
+Bid on INET (Sequence)=0,8
+Bid on INET (Only)=0,8
+Bid on INET (DOTD)=112,8
+Bid on INET Ask=0,8
+Bid on INET (LOO)=0,8
+Bid on INET (LOC)=0,8
+Bid on NasdaqBX=0,8
+Bid on NasdaqBX (Hidden)=0,8
+Bid on NasdaqBX (Part)=0,8
+Bid on NasdaqBX (Sequence)=0,8
+Bid on NasdaqBX (Only)=0,8
+Bid on NasdaqBX (DOTD)=0,8
+Bid on NasdaqBX Ask=0,8
+Bid on NasdaqBX (LOO)=0,8
+Bid on NasdaqBX (LOC)=0,8
+Bid on ARCA=0,8
+Bid on ARCA (LOO)=0,8
+Bid on ARCA (LOC)=0,8
+Bid on ARCA (PO+)=0,8
+Bid on EDGA=0,8
+Bid on EDGA (Hidden)=0,8
+Bid on EDGX=0,8
+Bid on EDGX (Hidden)=0,8
+Bid on MerrillLynch (LOO)=0,8
+Bid on MerrillLynch (LOC)=0,8
+Bid on NYSE=0,8
+Bid on TRAC=0,8
+Bid on KNIGHT=0,8
+Bid on BATS=0,8
+Bid on CDRG=0,8
+Bid on CRSS=0,8
+Bid on CRSD=0,8
+Bid on GETCO=0,8
+Bid on NSX=0,8
+Bid on FLOW=0,8
+Bid on ISEQ=0,8
+Bid on ATDLP=0,8
+Bid on DATA=0,8
+Bid on NYSE-B=0,8
+Bid on NYSE-B+=0,8
+Bid on NYSE-M=0,8
+Bid on NYSE-M+=0,8
+Bid on NYSE-O=0,8
+Bid on NYSE-O+=0,8
+Bid on OES=0,8
+Bid on OES+=0,8
+Bid on OES(MWSE)=0,8
+Bid on NYF-Dot=0,8
+Bid on NYF-Res=0,8
+Bid on SIZE=0,8
+Bid by ECN Seq=0,8
+Bid by Shave Key 1=0,8
+Bid by Shave Key 2=0,8
+Bid by Shave Key 3=0,8
+Bid by Shave Key 4=0,8
+Bid by Shave Key 5=0,8
+Bid on ECNs=0,8
+Bid on Pipeline=0,8
+Bid on SENG=0,8
+Bid on SEN2=0,8
+Bid on SEN3=0,8
+Ask on INET=0,8
+Ask on INET (Hidden)=0,8
+Ask on INET (Part)=0,8
+Ask on INET (Sequence)=0,8
+Ask on INET (Only)=0,8
+Ask on INET (DOTD)=113,8
+Ask on INET Bid=0,8
+Ask on INET (LOO)=0,8
+Ask on INET (LOC)=0,8
+Ask on NasdaqBX=0,8
+Ask on NasdaqBX (Hidden)=0,8
+Ask on NasdaqBX (Part)=0,8
+Ask on NasdaqBX (Sequence)=0,8
+Ask on NasdaqBX (Only)=0,8
+Ask on NasdaqBX (DOTD)=0,8
+Ask on NasdaqBX Bid=0,8
+Ask on NasdaqBX (LOO)=0,8
+Ask on NasdaqBX (LOC)=0,8
+Ask on ARCA=0,8
+Ask on ARCA (LOO)=0,8
+Ask on ARCA (LOC)=0,8
+Ask on ARCA (PO+)=0,8
+Ask on EDGA=0,8
+Ask on EDGA (Hidden)=0,8
+Ask on EDGX=0,8
+Ask on EDGX (Hidden)=0,8
+Ask on MerrillLynch (LOO)=0,8
+Ask on MerrillLynch (LOC)=0,8
+Ask on NYSE=0,8
+Ask on TRAC=0,8
+Ask on KNIGHT=0,8
+Ask on BATS=0,8
+Ask on CDRG=0,8
+Ask on CRSS=0,8
+Ask on CRSD=0,8
+Ask on GETCO=0,8
+Ask on NSX=0,8
+Ask on FLOW=0,8
+Ask on ISEQ=0,8
+Ask on ATDLP=0,8
+Ask on DATA=0,8
+Ask on NYSE-B=0,8
+Ask on NYSE-B+=0,8
+Ask on NYSE-M=0,8
+Ask on NYSE-M+=0,8
+Ask on NYSE-O=0,8
+Ask on NYSE-O+=0,8
+Ask on OES=0,8
+Ask on OES+=0,8
+Ask on OES(MWSE)=0,8
+Ask on NYF-Dot=0,8
+Ask on NYF-Res=0,8
+Ask on SIZE=0,8
+Ask by ECN Seq=0,8
+Ask by Shave Key 1=0,8
+Ask by Shave Key 2=0,8
+Ask by Shave Key 3=0,8
+Ask by Shave Key 4=0,8
+Ask by Shave Key 5=0,8
+Ask on ECNs=0,8
+Ask on Pipeline=0,8
+Ask on SENG=0,8
+Ask on SEN2=0,8
+Ask on SEN3=0,8
+Quick Bid on ARCA=0,8
+Quick Bid on INET=0,8
+Quick Bid on TRAC=0,8
+Quick Ask on ARCA=0,8
+Quick Ask on INET=0,8
+Quick Ask on TRAC=0,8
+Buy on INET (Inside quote)=114,8
+Buy on INET (Inside quote+)=0,8
+Limit Buy on INET (Only)=0,8
+Limit Buy on INET (DOTD)=0,8
+Market Buy on INET=0,8
+Market Buy on INET (Only)=0,8
+Market Buy on INET (DOTD)=0,8
+Buy on NasdaqBX (Inside quote)=0,8
+Buy on NasdaqBX (Inside quote+)=0,8
+Limit Buy on NasdaqBX (Only)=0,8
+Limit Buy on NasdaqBX (DOTD)=0,8
+Market Buy on NasdaqBX=0,8
+Market Buy on NasdaqBX (Only)=0,8
+Market Buy on NasdaqBX (DOTD)=0,8
+Buy on ARCA (Inside quote+)=0,8
+Buy on ARCA (MOO)=0,8
+Buy on ARCA (MOC)=0,8
+Buy on ARCA (PO+)=0,8
+Buy on SelectNet (Select)=0,8
+Buy on ECNs (Inside quote+)=0,8
+Buy on OES(MOO)=0,8
+Buy on OES(MOC)=0,8
+Buy on MerrillLynch (MOO)=0,8
+Buy on MerrillLynch (MOC)=0,8
+Buy on NYSE (Inside quote)=0,8
+Buy on NYSE-B+=0,8
+Buy on NYSE-M+=0,8
+Buy on OES+=0,8
+Buy on NITE=0,8
+Buy on BATS (Inside quote)=0,8
+Buy on CDRG (Inside quote)=0,8
+Buy on CRSS (Inside quote)=0,8
+Buy on CRSD (Inside quote)=0,8
+Buy on GETCO (Inside quote)=0,8
+Buy on NSX (Inside quote)=0,8
+Buy on FLOW (Inside quote)=0,8
+Buy on ISEQ=0,8
+Buy on ISEQ (Inside Quote)=0,8
+Market Buy on ISEQ=0,8
+Buy on ATDLP (Inside quote)=0,8
+Buy on EDGA (Inside quote)=0,8
+Buy on EDGX (Inside quote)=0,8
+Buy on EDGX (Inside quote+)=0,8
+Send Order=13,8
+Send Order 2=0,8
+Send Order 3=0,8
+Send Order 4=0,8
+Send Shave Order=0,8
+Direct Buy=120,8
+Buy Direct+=0,8
+Direct Buy 100 Shares=0,8
+Market Buy=0,8
+Rapid Buy=0,8
+NYSE Market Buy=0,8
+NYF-Dot Market Buy=0,8
+NYSE Buy Stop=116,8
+NYSE Buy StopL=0,8
+NYSE Buy Limit=118,8
+Smart Market Buy=0,8
+Inside Smart Buy=0,8
+Inside Smart Buy (EDGX)=0,8
+Sell on INET (Inside Quote)=115,8
+Sell on INET (Inside Quote-)=0,8
+Limit Sell on INET (Only)=0,8
+Limit Sell on INET (DOTD)=0,8
+Market Sell on INET=0,8
+Market Sell on INET (Only)=0,8
+Market Sell on INET (DOTD)=0,8
+Sell on NasdaqBX (Inside Quote)=0,8
+Sell on NasdaqBX (Inside Quote-)=0,8
+Limit Sell on NasdaqBX (Only)=0,8
+Limit Sell on NasdaqBX (DOTD)=0,8
+Market Sell on NasdaqBX=0,8
+Market Sell on NasdaqBX (Only)=0,8
+Market Sell on NasdaqBX (DOTD)=0,8
+Sell on ARCA (Inside Quote-)=0,8
+Sell on ARCA (MOO)=0,8
+Sell on ARCA (MOC)=0,8
+Sell on ARCA (PO+)=0,8
+Sell on SelectNet (Select)=0,8
+Sell on ECNs (Inside Quote-)=0,8
+Sell on OES(MOO)=0,8
+Sell on OES(MOC)=0,8
+Sell on MerrillLynch (MOO)=0,8
+Sell on MerrillLynch (MOC)=0,8
+Sell on NYSE (Inside Quote)=0,8
+Sell on NYSE-B+=0,8
+Sell on NYSE-M+=0,8
+Sell on OES+=0,8
+Sell on NITE=0,8
+Sell on BATS (Inside Quote)=0,8
+Sell on CDRG (Inside Quote)=0,8
+Sell on CRSS (Inside Quote)=0,8
+Sell on CRSD (Inside Quote)=0,8
+Sell on GETCO (Inside Quote)=0,8
+Sell on NSX (Inside Quote)=0,8
+Sell on FLOW (Inside Quote)=0,8
+Sell on ISEQ=0,8
+Sell on ISEQ (Inside Quote)=0,8
+Market Sell on ISEQ=0,8
+Sell on ATDLP (Inside Quote)=0,8
+Sell on EDGA (Inside Quote)=0,8
+Sell on EDGX (Inside Quote)=0,8
+Sell on EDGX (Inside Quote-)=0,8
+Direct Sell=121,8
+Sell Direct+=0,8
+Direct Sell 100 Shares=0,8
+Market Sell=0,8
+Rapid Sell=0,8
+NYSE Market Sell=0,8
+NYF-Dot Market Sell=0,8
+NYSE Sell Stop=117,8
+NYSE Sell StopL=0,8
+NYSE Sell Limit=119,8
+Smart Market Sell=0,8
+Inside Smart Sell=0,8
+Inside Smart Sell (EDGX)=0,8
+Slip=0,8
+Slip Market=0,8
+Slip Delta=0,8
+Slip Ask=0,8
+Slip -5c=0,8
+Buy VWAP=0,8
+Sell VWAP=0,8
+Manual Sell/SSell=0,8
+Buy Trader StopOrder=0,8
+Sell Trader StopOrder=0,8
+Buy Trader StopLimit=0,8
+Sell Trader StopLimit=0,8
+Discretionary Order=0,8
+Discretionary Setup=0,8
+Auto Ex=0,8
+SOES TIF None=0,8
+OC - Closing Cross=0,8
+OO - Opening Cross=0,8
+IO - Opening Cross=0,8
+IOX - Immediate or Cancel=0,8
+X - Cancel at Market Close=0,8
+Imbalance=0,8
+Primary Pegged Order=0,8
+Market Pegged Order=0,8
+Midpoint Pegged Order=0,8
+Not Pegged Order=0,8
+Pegged Order Setup=0,8
+Always Internalized=0,8
+Match Internalized=0,8
+Never Internalized=0,8
+Agency Capacity=0,8
+Principal Capacity=0,8
+Riskless Capacity=0,8
+Fill or Return=0,8
+Increase Price 0.001=0,8
+Decrease Price 0.001=0,8
+Increase Price 0.002=0,8
+Decrease Price 0.002=0,8
+Increase Price 0.005=0,8
+Decrease Price 0.005=0,8
+Increase Price 0.01=0,8
+Decrease Price 0.01=0,8
+Increase Price 0.02=0,8
+Decrease Price 0.02=0,8
+Increase Price 0.05=0,8
+Decrease Price 0.05=0,8
+Increase Price 0.1=0,8
+Decrease Price 0.1=0,8
+Increase Price 0.2=0,8
+Decrease Price 0.2=0,8
+Increase Price 0.5=0,8
+Decrease Price 0.5=0,8
+Increase Shares=0,8
+Decrease Shares=0,8
+Increase Shares by 100=49,10
+Decrease Shares by 100=49,12
+Increase Shares by 200=50,10
+Decrease Shares by 200=50,12
+Increase Shares by 500=53,10
+Decrease Shares by 500=53,12
+Increase Shares by 1000=97,10
+Decrease Shares by 1000=97,12
+Increase Shares by 2000=98,10
+Decrease Shares by 2000=98,12
+Increase Shares by 5000=101,10
+Decrease Shares by 5000=101,12
+Increase Shares by 10000=0,8
+Decrease Shares by 10000=0,8
+Set Shares to Current Open Position=0,8
+Set Shares 100=49,8
+Set Shares 200=50,8
+Set Shares 300=51,8
+Set Shares 400=52,8
+Set Shares 500=53,8
+Set Shares 600=54,8
+Set Shares 700=55,8
+Set Shares 800=56,8
+Set Shares 900=57,8
+Set Shares 1000=48,8
+Set Shares 2000=98,12
+Set Shares 3000=99,12
+Set Shares 4000=100,12
+Set Shares 5000=101,12
+Set Shares 6000=102,12
+Set Shares 7000=103,12
+Set Shares 8000=104,12
+Set Shares 9000=105,12
+Set Shares 10000=96,12
+Set Shares 20000=0,8
+Set Shares 30000=0,8
+Set Shares 40000=0,8
+Set Shares 50000=0,8
+Set Shares 60000=0,8
+Set Shares 70000=0,8
+Set Shares 80000=0,8
+Set Shares 90000=0,8
+Set Shares 100000=0,8
+Route out INET=0,8
+Route out ARCA=0,8
+Route out EDGA=0,8
+Route out EDGX=0,8
+Strategy INET=0,8
+Strategy DOTA=0,8
+Strategy DOTM=0,8
+Strategy DOTP=0,8
+Strategy DOTI=0,8
+Strategy DOTD=0,8
+Strategy STGY=0,8
+Strategy SCAN=0,8
+Strategy TFTY=0,8
+Strategy SAVE=0,8
+Strategy ISNY=0,8
+Strategy ISAM=0,8
+BX Strategy INET=0,8
+BX Strategy DOTA=0,8
+BX Strategy DOTM=0,8
+BX Strategy DOTP=0,8
+BX Strategy DOTI=0,8
+BX Strategy DOTD=0,8
+BX Strategy STGY=0,8
+BX Strategy SCAN=0,8
+BX Strategy ISNY=0,8
+BX Strategy ISAM=0,8
+EDGA Add Liquity Only=0,8
+EDGA - EDGA Only=0,8
+EDGA RDOX=0,8
+EDGA RDOT=0,8
+EDGA ROUT=0,8
+EDGA ROUC=0,8
+EDGA Default=0,8
+EDGX Add Liquity Only=0,8
+EDGX - EDGX Only=0,8
+EDGX RDOX=0,8
+EDGX RDOT=0,8
+EDGX ROUT=0,8
+EDGX Default=0,8
+Strategy PO=0,8
+Strategy PO+=0,8
+ARCA Strategy Default=0,8
+MLOP Clean Sweep=0,8
+MLOP Hidden Sweep=0,8
+MLOP Iceberg=0,8
+MLOP Smart=0,8
+MLOP Sweep=0,8
+MLOP Spray=0,8
+MLOP Striker=0,8
+MLOP Fast Sweep=0,8
+MLOP Default=0,8
+Bid on TSES=0,8
+Bid on PURE=0,8
+Bid on CHIC=0,8
+Bid on ALPHA=0,8
+Bid on OMEGA=0,8
+Bid on BEST=0,8
+Ask on TSES=0,8
+Ask on PURE=0,8
+Ask on CHIC=0,8
+Ask on ALPHA=0,8
+Ask on OMEGA=0,8
+Ask on BEST=0,8
+Buy on TSES=0,8
+Buy on PURE=0,8
+Buy on CHIC=0,8
+Buy on ALPHA=0,8
+Buy on OMEGA=0,8
+Buy on BEST=0,8
+Sell on TSES=0,8
+Sell on PURE=0,8
+Sell on CHIC=0,8
+Sell on ALPHA=0,8
+Sell on OMEGA=0,8
+Sell on BEST=0,8
+Zoom In Chart=107,8
+Zoom Out Chart=109,8
+Setup Basket=0,8
+Setup Basket=0,8
+Setup Basket=0,8
+Setup Basket=0,8
+Setup Basket=0,8
+Set Basket Shares 100=0,8
+Set Basket Shares 200=0,8
+Set Basket Shares 300=0,8
+Set Basket Shares 400=0,8
+Set Basket Shares 500=0,8
+Set Basket Shares 600=0,8
+Set Basket Shares 700=0,8
+Set Basket Shares 800=0,8
+Set Basket Shares 900=0,8
+Set Basket Shares 1000=0,8
+Set Basket Shares 2000=0,8
+Set Basket Shares 3000=0,8
+Set Basket Shares 4000=0,8
+Set Basket Shares 5000=0,8
+Set Basket Shares 6000=0,8
+Set Basket Shares 7000=0,8
+Set Basket Shares 8000=0,8
+Set Basket Shares 9000=0,8
+Set Basket Shares 10000=0,8
+Increase Basket Shares by 100=0,8
+Decrease Basket Shares by 100=0,8
+Increase Basket Shares by 1000=0,8
+Decrease Basket Shares by 1000=0,8
+Select All in the BoardViewPlus=0,8
+Set Selected Symbols' Side to BUY=0,8
+Set Selected Symbols' Side to SELL=0,8
+Toggle Selected Symbols' Side=0,8
+Set TIF to IOC=0,8
+Set TIF to Day=0,8
+
+[OrderHotKeys]
+ConfirmOrder=1
+UpDownKeyFor=2
+RepeatCmdFor=1
+CustomHotKey0=0||8|0|1|0|B|1|0|Best Bid|0|Best Bid|0|1145852745|538976288|1|99999|N|N|0|None|538976288
+CustomHotKey1=0||8|0|1|0|B|1|0|Best Bid|0|Best Bid|0|1145852745|538976288|1|99999|N|N|0|None|538976288
+CustomHotKey2=1||8|0|1|0|B|1|0|Best Bid|0|Best Bid|0|1145852745|538976288|1|99999|N|N|0|None|538976288
+CustomHotKey3=0.001;0.005;0.01;0.1||8|0|1|0|B|1|0|Best Bid|0|Best Bid|0|1145852745|538976288|1|99999|N|N|0|None|538976288
+CustomHotKey4=100;500;1000;10000||8|0|1|0|B|1|0|Best Bid|0|Best Bid|0|1145852745|538976288|1|99999|N|N|0|None|538976288
+CustomHotKey5=ISLD;NQBX;ARCA;DATA;TRAC;ERCO;BELZ;BLZX;VWAP;MLCO;MLNX;PPLN;SENG;SEN2;SEN3;OESD;OESX;NYFD;NYFX;NITE;BATS;AUTO;CDRG;CRSS;CRSD;NSXX;NYSE;GFLO;ISEQ;AUTP;EDGA;EDGX;FLOW||8|0|1|0|B|1|0|Best Bid|0|Best Bid|0|1145852745|538976288|1|99999|N|N|0|None|538976288
+CustomHotKey6=NoRoutes||8|0|1|0|B|1|0|Best Bid|0|Best Bid|0|1145852745|538976288|1|99999|N|N|0|None|538976288
+
+[Sounds]
+Trade Order Complete=C:\WINDOWS\Media\CHIMES.WAV
+Trade Order Cancel=
+
+[BVPlus Default Settings]
+FullRowSelected=1
+DynamicSort=1
+BoardViewColor=16760976 0
+CommentColor=10485760 681182
+FocusedColor=8453888 8388863
+SelectedColor=1364690 11148830
+NYSEOnlyL1=0
+NYSEOnlyTrade=0
+FontSize=12
+ShowGridline=0
+ChangeUseDefault=1
+UseBasketColor=0
+ColumnColor=0 0 16777215
+Flashable=0 0
+ColumnColor=1 8454016 8404992
+Flashable=1 0
+ColumnColor=2 16760976 0
+Flashable=2 1
+ColumnColor=3 16760976 0
+Flashable=3 1
+ColumnColor=4 16760976 0
+Flashable=4 0
+ColumnColor=5 16760976 0
+Flashable=5 0
+ColumnColor=6 16760976 0
+Flashable=6 0
+ColumnColor=7 16760976 0
+Flashable=7 0
+ColumnColor=8 16760976 0
+Flashable=8 0
+ColumnColor=9 16760976 0
+Flashable=9 0
+ColumnColor=10 16760976 0
+Flashable=10 0
+ColumnColor=11 0 16777215
+Flashable=11 0
+ColumnColor=12 16760976 0
+Flashable=12 0
+ColumnColor=13 16760976 0
+Flashable=13 0
+ColumnColor=14 16760976 0
+Flashable=14 0
+ColumnColor=15 16760976 0
+Flashable=15 0
+ColumnColor=16 16760976 0
+Flashable=16 0
+ColumnColor=17 16760976 0
+Flashable=17 0
+ColumnColor=18 16760976 0
+Flashable=18 0
+ColumnColor=19 16760976 0
+Flashable=19 0
+ColumnColor=20 16760976 0
+Flashable=20 0
+ColumnColor=21 16760976 0
+Flashable=21 0
+ColumnColor=22 16760976 0
+Flashable=22 0
+ColumnColor=23 0 0
+Flashable=23 0
+ColumnColor=24 0 16777215
+Flashable=24 0
+ColumnColor=25 0 16777215
+Flashable=25 0
+ColumnColor=26 0 0
+Flashable=26 0
+ColumnColor=27 16760976 0
+Flashable=27 0
+ColumnColor=28 16760976 0
+Flashable=28 0
+ColumnColor=29 16760976 0
+Flashable=29 0
+ColumnColor=30 16760976 0
+Flashable=30 0
+ColumnColor=31 16760976 0
+Flashable=31 0
+
+[PendingOrder]
+DetachedView=0
+TopmostView=0
+AttachedRect=0,340,378,450
+LinkedToFocus=1
+LinkID=1
+PageID=0
+Title=Pending Order
+DisplayStyle=0
+Sort=0
+CurrentOrders=0
+FontColors=-10,0,0,0,400,0,0,0,0,0,0,0,0,MS Sans Serif,#,16777215,Short,128,16777215,Sell,128,16777215,Buy,32768,16777215
+
+[ActivityLog]
+DetachedView=0
+TopmostView=0
+AttachedRect=493,452,837,592
+LinkedToFocus=1
+LinkID=1
+PageID=0
+Title=Activity Log
+
+[Blotter]
+DetachedView=0
+TopmostView=0
+AttachedRect=0,450,344,769
+LinkedToFocus=1
+LinkID=1
+PageID=2
+Title=Blotter: 025_006L - Open
+AccountID=025_006L
+TradesFastInsertion=1
+CancelFastInsertion=1
+CancelMaxLines=100
+ShowTab=1
+CurrentTab=0
+<FcsListCtrl_Begin>=Open
+GridLinesVisible=1
+HeaderVisible=1
+FontColors=-11,0,0,0,400,0,0,0,0,0,0,0,0,MS Sans Serif,#,16777215,Profit,32768,16777215,65280,0,0,Loss,255,16777215,0,0,0,16777215,0,0,Flat,0,16777215
+ColumnNum=11
+Column=Symbol, Side, Cost, Shares, Last, P/L, P&L/S, Time, Amount, Security, LastTime, 
+Width=58 41 58 57 43 54 90 81 108 135 126 
+Order=0 1 2 3 4 5 6 7 8 9 10 
+Format=16384 16386 16385 16385 16385 16385 16385 16385 16385 16384 16384 
+AvgCharWidth=6
+<FcsListCtrl_End>=
+<FcsListCtrl_Begin>=Trades
+GridLinesVisible=1
+HeaderVisible=1
+FontColors=-11,0,0,0,400,0,0,0,0,0,0,0,0,MS Sans Serif,#,16777215,65280,0,0,0,0,0,Short,128,16777215,255,0,0,Sell,128,16777215,Buy,32768,16777215
+ColumnNum=15
+Column=Symbol, Side, Price, Shares, P/L, Method, MMID, Time, T#, R#, Spread, EntryPrice, LiqFlag, UserID, Security, 
+Width=90 72 90 99 90 90 72 81 90 180 90 108 72 135 135 
+Order=0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 
+Format=16384 16386 16385 16385 16385 16384 16384 16385 16384 16384 16385 16385 16386 16384 16386 
+AvgCharWidth=6
+<FcsListCtrl_End>=
+<FcsListCtrl_Begin>=Pending
+GridLinesVisible=1
+HeaderVisible=1
+FontColors=-11,0,0,0,400,0,0,0,0,0,0,0,0,MS Sans Serif,#,16777215,65280,0,0,0,0,0,Short,128,16777215,255,0,0,Sell,128,16777215,Buy,32768,16777215
+ColumnNum=12
+Column=Symbol, Side, Price, Shares, Method, MMID, Time, T#, R#, Status, UserID, Security, 
+Width=90 72 90 99 90 81 81 90 144 108 135 135 
+Order=0 1 2 3 4 5 6 7 8 9 10 11 
+Format=16384 16386 16385 16385 16384 16384 16385 16384 16384 16384 16384 16384 
+AvgCharWidth=6
+<FcsListCtrl_End>=
+<FcsListCtrl_Begin>=Cancel
+GridLinesVisible=1
+HeaderVisible=1
+FontColors=-11,0,0,0,400,0,0,0,0,0,0,0,0,MS Sans Serif,#,16777215,65280,0,0,0,0,0,Short,128,16777215,255,0,0,Sell,128,16777215,Buy,32768,16777215
+ColumnNum=14
+Column=Symbol, Side, Price, Shares, Method, MMID, Time, T#, R#, C.Time, C.Shares, Status, UserID, Security, 
+Width=90 72 90 99 90 81 81 90 144 90 117 108 135 135 
+Order=0 1 2 3 4 5 6 7 8 9 10 11 12 13 
+Format=16384 16386 16385 16385 16384 16384 16385 16384 16384 16385 16384 16384 16384 16384 
+AvgCharWidth=6
+<FcsListCtrl_End>=
+<FcsListCtrl_Begin>=BorrowOpen
+GridLinesVisible=1
+HeaderVisible=1
+FontColors=-11,0,0,0,400,0,0,0,0,0,0,0,0,MS Sans Serif,#,16777215,0,0,0,16777215,0,0,Text,0,16777215
+ColumnNum=2
+Column=Symbol, Remain, 
+Width=72 72 
+Order=0 1 
+Format=16384 16385 
+AvgCharWidth=6
+<FcsListCtrl_End>=
+<FcsListCtrl_Begin>=BorrowExec
+GridLinesVisible=1
+HeaderVisible=1
+FontColors=-11,0,0,0,400,0,0,0,0,0,0,0,0,MS Sans Serif,#,16777215,0,0,0,16777215,0,0,Text,0,16777215
+ColumnNum=10
+Column=Symbol, B/R, Rate, Shares, Cost, Time, Method, T#, M#, Memo, 
+Width=72 54 72 72 72 108 72 81 81 108 
+Order=0 1 2 3 4 5 6 7 8 9 
+Format=16384 16385 16385 16385 16385 16385 16385 16385 16385 16385 
+AvgCharWidth=6
+<FcsListCtrl_End>=
+<FcsListCtrl_Begin>=AvgPrice
+GridLinesVisible=1
+HeaderVisible=1
+FontColors=-11,0,0,0,400,0,0,0,0,0,0,0,0,MS Sans Serif,#,16777215,65280,0,0,0,0,0,Short,128,16777215,255,0,0,Sell,128,16777215,Buy,32768,16777215
+ColumnNum=7
+Column=Symbol, Side, OrdQty, FillQty, VWAP, Tickets, Fills, 
+Width=72 54 72 72 90 72 72 
+Order=0 1 2 3 4 5 6 
+Format=16384 16384 16385 16385 16385 16385 16385 
+AvgCharWidth=6
+<FcsListCtrl_End>=
+
+[TradeIdeas UsrPwd]
+TradeIdeas_UserName=super9
+TradeIdeas_Password=olik
+
+[TNSView]
+DetachedView=0
+TopmostView=0
+AttachedRect=344,-1,836,451
+LinkedToFocus=1
+LinkID=1
+PageID=1
+Title=TNS+ View: FIRE
+FontSize=12
+bHighlightNYSE=1
+ShowCompany=1
+ShowNyseTick=0
+Symbol=FIRE
+ShowHeader=1
+AutoHideSymbolCompanyCtrls=0
+Column=Time 71 
+Column=Exg 44 
+Column=Price 57 
+Column=Share 49 
+Column=Bid 48 
+Column=BExg 45 
+Column=Ask 52 
+Column=AExg 50 
+Column=Size 52 
+NewHigh=16777215 37632
+NewLow=16777215 204
+AboveAsk=16776960 0
+AtAsk=65280 0
+Inside=16777215 0
+AtBid=16744703 0
+BelowBid=255 0
+Quote=16760976 0
+HighlightNYSE=8388800 4194304
+Company=8454143 10485760
+ViewMode=3
+QuoteSrc=0000000000000000000000
+TradeSrc=0000000000000000000000
+ViewDay=1
+
+[Hidden MM List]
+BRUT=1
+ARCA=1
+ISLD=1
+INCA=1
+REDI=1
+
+[Direct Hit]
+
+[Market Hit]
+
+[Smart Hit]
+
+[ECN Bid]
+
+[EASY BUTTON]
+
+[Level2]
+DetachedView=0
+TopmostView=0
+AttachedRect=0,0,340,342
+LinkedToFocus=1
+LinkID=1
+PageID=1
+Title=Sourcefire  Inc. - Common Stock
+Symbol=FIRE
+ExecMode=1
+DisplayMode=1
+ButtonMode=4
+DefaultShares=100
+DefaultShortShares=100
+IncreaseShares=100
+bSameReserveShares=0
+bReserveINETShow=1
+nReserveINETShares=1000
+bReserveARCAShow=1
+nReserveARCAShares=1000
+bReserveTRACShow=1
+nReserveTRACShares=1000
+bReserveMLYNShow=1
+nReserveMLYNShares=1000
+bReserveDATAShow=1
+nReserveDATAShares=100
+bReserveOESShow=1
+nReserveOESShares=1000
+bReserveNYFXShow=1
+nReserveNYFXShares=1000
+bReserveNITEShow=1
+nReserveNITEShares=1000
+bReserveEDGAShow=1
+nReserveEDGAShares=1000
+bReserveEDGXShow=1
+nReserveEDGXShares=1000
+bLockMethod=0
+Level2Sum=0
+bShowNYOBInLevel2=0
+bHideAllMarketMaker=0
+bHideAllTotalView=0
+L2L1_Display=0
+Column0=3
+Column1=3
+Column2=3
+Column3=0
+BidColPos=0,50,60,110,120,170
+AskColPos=0,50,60,110,120,170
+HiddenMM=
+CrssProduct=4A
+CrssStyle=0
+nCrssDisplaySize=100
+nLevel1Style=5
+L1mmHeight=40
+L1mmPrecision=2
+L1mmclrActiveBk=64
+L1mmclrBk=0
+L1mmclrFg=65535
+L1mmclrPos=65280
+L1mmclrNeg=255
+L1mmclrNoChange=16777215
+L1mmCF=-134217665,1,240,0,0,0,Arial
+L1mmDisItems=Last,Net,%,Close,Open,Lo,Hi,Vol,
+
+[OpenBook]
+DetachedView=0
+TopmostView=0
+AttachedRect=350,451,632,808
+LinkedToFocus=1
+LinkID=1
+PageID=0
+Title=Open Book: FIRE
+Symbol=FIRE
+Column0=64
+Column1=64
+Column1Time=0
+Column2=64
+Column3=64
+Column3Time=0
+
+[StockChart]
+DetachedView=0
+TopmostView=0
+AttachedRect=827,0,1428,397
+LinkedToFocus=1
+LinkID=1
+PageID=1
+Title=Stock Chart: FIRE
+Symbol=FIRE
+SymbolLeft=
+Style=Candle Stick
+bMovingAverage1=1
+bMovingAverage2=1
+bMovingAverage3=1
+MovingAveragePeriod1=4
+MovingAveragePeriod2=7
+MovingAveragePeriod3=13
+bHighLow1=0
+bHighLow2=0
+HighLowPeriod1=40
+HighLowPeriod2=80
+bBollingerBand=1
+BollingerBandPoints=20
+BBStdev=2.000000
+bStudyVolume=1
+bStudyStochastics=0
+StudyStochasticsPeriod=10
+bStudyRSI=0
+StudyRSIPeriod=10
+bStudyAvgTrueRange=0
+StudyAvgTrueRangePeriod=20
+bStudyDiversity=0
+bStudyMACD=0
+StudyMACDPeriod=12
+StudyMACDPeriod2=26
+StudyMACDPeriod3=9
+bStudyMomentum=0
+StudyMomentumPeriod=10
+bStudyCCI =0
+BarWidthUserMax=5
+Days=5
+Days1M=3
+Days2M=0
+Days3M=0
+Days5M=5
+Days10M=10
+Days15M=15
+Days30M=30
+Days60M=60
+Days1D=9999
+VAxisMode=0
+ChartType=5
+DayBreak=1
+RightSettingHigh=0.0000
+RightSettingLow=0.0000
+LeftSettingHigh=0.0000
+LeftSettingLow=0.0000
+RefreshDisplay=0
+
+[ESignal Linkage]
+link=3 1
+
+[PlugIn Link2Xls]
+Param=OrderReady,A2
+Param=QuoteSheetName,Quotes
+Param=PropertyName,stoporder
+Param=AutoAddSymbols,1
+Param=UpdateDelay,1000
+Param=TradeSheetName,trades
+Param=OrderCell,B2
+Param=FileName,C:\Documents and Settings\John E. Choi\My Documents\Genesis\Quotes.xls
+Param=OrderSheetName,Orders
+Param=SheetName,sheet1
+
+[Not Auto-Refresh]
+ETB
+FF
+OLA
+RFI
+BCF
+FGF
+JFR
+JSN
+LCM
+NAI
+NRI
+PSY
+RSF
+SWZ
+ASG
+EEF
+EHI
+GCS
+HVT
+IGD
+JTP
+AOD
+AVK
+ECV
+ESD
+ETV
+MCN
+PFN
+UTF
+KYE
+JGV
+BDJ
+ETW
+FGI
+FMO
+GAB
+GDV
+JTA
+PGP
+RMT
+RPF
+BOE
+DPD
+EOS
+ETG
+HTD
+PEO
+TYN
+KED
+ETY
+JDD
+MGU
+PCN
+RQI
+CGO
+HPS
+JHI
+EOE
+BEO
+EBI
+RIT
+RLF
+STD.PRA
+BEP
+BGR
+JQC
+TRADE ORDER CANCEL
+BTO
+JPC
+LDF
+LGI
+CLG
+AGD
+EMF
+HPF
+LOR
+MSD
+TTO
+TRADE ORDER COMPLETE
+BWC
+EOI
+FEO
+HQH
+JLA
+RVT
+ETO
+KYN
+WB
+CSQ
+AWF
+BDT
+FAM
+FFA
+JPG
+NFJ
+RCC
+RWF
+TYW
+PHK
+RTU
+TYG
+BDV
+CEE
+CHY
+DCS
+EVT
+FFC
+HYT
+IGA
+IRL
+JPZ
+KVN
+NCZ
+PBF
+RNP
+RYJ
+SCD
+TYY
+USA
+WIW
+
